@@ -1,4 +1,4 @@
-I'm a full-stack developer located in upstate New York. I have roughly 5 years of experience in running production level projects and 3 years in web development. Frontend is my strong suit but I have experience in writing both. I prefer to work alongside a designer but am capable of making something nice when working solo. I have experience pushing products securely to launch and have been working with Linux machines for a while now.
+I'm a 20 year old full stack web developer located in upstate New York. Frontend is my strongsuit but I have experience in writing both. I work well both solo and alongside a design team. I've worked on a variety of projects and have ample experience in pushing websites securely to production.
 
 <p align="center">
   https://aiden.gg
